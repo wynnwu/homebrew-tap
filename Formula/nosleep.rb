@@ -1,8 +1,8 @@
 class Nosleep < Formula
   desc "Keep your Mac awake with the lid closed, with an auto-off timer"
   homepage "https://github.com/wynnwu/nosleep"
-  url "https://github.com/wynnwu/nosleep/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "db2684260ed27d864c13cf86322dc31f61f09d979223661324706d8755a6202b"
+  url "https://github.com/wynnwu/nosleep/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "60e0efbbda2fc0227f5e6fdd5295da00e539930934b94739a520096ae6fb7d5c"
   license "MIT"
 
   depends_on :macos
